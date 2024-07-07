@@ -4,7 +4,7 @@ Hi 👋 My name is Enes Olgun
 Software Developer
 ------------------
 
-A passionate and self-motivated Software engineering student with a double major in Electrical and Electronics Engineering from Turkey. I am dedicated to learning and enhancing my skills in web and mobile app development, particularly focusing on technologies such as React, React Native, Node.js, and Express.js. Furthermore, I am developing a mobile application for my graduation project.
+A passionate and self-motivated Software engineering student with a double major in Electrical and Electronics Engineering from Turkey. I am dedicated to learning and enhancing my skills in both embedded development, and full-stack development particularly focusing on technologies such as C, C++, React, React Native, and Node.js. And I am eager to learn other technologies to further improve myself. Furthermore, for my graduation projects I worked on facial recognition for security automation project using C and C++ and developed a mobile application using React Native.
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [enes.olgun6234@gmail.com](mailto:enes.olgun6234@gmail.com)
